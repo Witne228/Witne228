@@ -17,17 +17,20 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 ### Creative & Visuals
 <p align="left">
-  <img src="https://skillicons.dev" alt="Creative Tools" />
-  <img src="https://shields.io" alt="CapCut" height="48" style="vertical-align:top; margin-left:4px;" />
+  <img src="https://shields.io" alt="Photoshop" />
+  <img src="https://shields.io" alt="Illustrator" />
+  <img src="https://shields.io" alt="Figma" />
+  <img src="https://shields.io" alt="CapCut" />
 </p>
 
 ### Code & Data Science
 <p align="left">
-  <img src="https://skillicons.dev" alt="ML Tools" />
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="NumPy" />
+  <img src="https://shields.io" alt="Pandas" />
+  <img src="https://shields.io" alt="Scikit-Learn" />
 </p>
 
 
