@@ -18,7 +18,7 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 ## 🛠️ Tech Stack & Tools
 
 ### Creative & Visuals
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop"/>
     <br><span>Photoshop</span>
@@ -38,7 +38,7 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 </div>
 
 ### Code & Data Science
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
   <div align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
     <br><span>Python</span>
