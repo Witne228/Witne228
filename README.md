@@ -33,4 +33,3 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
   <img src="https://shields.io" alt="Scikit-Learn" />
 </p>
 
-
