@@ -18,8 +18,13 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 ## 🛠️ Tech Stack & Tools
 
 ### Creative & Visuals
-![Photoshop](https://shields.io) ![Illustrator](https://shields.io) ![Figma](https://shields.io) ![CapCut](https://shields.io)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-00D4AA?style=for-the-badge&logo=capcut&logoColor=white)
 
 ### Code & Data Science
-![Python](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![Scikit-Learn](https://shields.io)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
