@@ -18,18 +18,8 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 ## 🛠️ Tech Stack & Tools
 
 ### Creative & Visuals
-<p align="left">
-  <img src="https://shields.io" alt="Photoshop" />
-  <img src="https://shields.io" alt="Illustrator" />
-  <img src="https://shields.io" alt="Figma" />
-  <img src="https://shields.io" alt="CapCut" />
-</p>
+![Photoshop](https://shields.io) ![Illustrator](https://shields.io) ![Figma](https://shields.io) ![CapCut](https://shields.io)
 
 ### Code & Data Science
-<p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="NumPy" />
-  <img src="https://shields.io" alt="Pandas" />
-  <img src="https://shields.io" alt="Scikit-Learn" />
-</p>
+![Python](https://shields.io) ![NumPy](https://shields.io) ![Pandas](https://shields.io) ![Scikit-Learn](https://shields.io)
 
