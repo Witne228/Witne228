@@ -29,5 +29,5 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" height="48" alt="Python"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" width="48" height="48" alt="NumPy"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" width="48" height="48" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" width="48" height="48" alt="Scikit-Learn"/>
+
 </p>
