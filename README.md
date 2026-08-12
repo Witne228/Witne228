@@ -18,13 +18,41 @@ Currently bridging the gap between visual arts and artificial intelligence. Back
 ## 🛠️ Tech Stack & Tools
 
 ### Creative & Visuals
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-00D4AA?style=for-the-badge&logo=capcut&logoColor=white)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop"/>
+    <br><span>Photoshop</span>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="48" height="48" alt="Illustrator"/>
+    <br><span>Illustrator</span>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="48" height="48" alt="Figma"/>
+    <br><span>Figma</span>
+  </div>
+  <div align="center">
+    <img src="https://img.icons8.com/color/48/000000/capcut.png" width="48" height="48" alt="CapCut"/>
+    <br><span>CapCut</span>
+  </div>
+</div>
 
 ### Code & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python"/>
+    <br><span>Python</span>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/>
+    <br><span>NumPy</span>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/>
+    <br><span>Pandas</span>
+  </div>
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-Learn"/>
+    <br><span>Scikit-Learn</span>
+  </div>
+</div>
